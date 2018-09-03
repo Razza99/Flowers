@@ -1,4 +1,4 @@
-<img align="right" src="FlowerGuess.png" alt="Flower Guesses" width="200"/>
+<img align="right" src="https://github.com/Razza99/Flowers/blob/master/FlowerGuess.PNG" alt="Flower Guesses" width="200"/>
 
 # Classifying photos of 5 types of flowers
 
